@@ -1,0 +1,5 @@
+C:\Documents and Settings\dai\Desktop\neverball\neverball.exe
+C:\Documents and Settings\dai\Desktop\neverball\neverputt.exe
+C:\Program Files\Overwolf\OverwolfLauncher.exe
+C:\Program Files\Overwolf\IconOverwolf_32Bit_16_32_48_256.ico
+C:\Program Files\Overwolf\D3DCompiler_43.dll
